@@ -1,0 +1,4 @@
+Remove from cart
+Ability to buy multiple items
+Total price
+Form for emploees
